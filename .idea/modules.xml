@@ -5,8 +5,14 @@
 <<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Ejs 1d.iml" filepath="$PROJECT_DIR$/Ejs 1d.iml" />
 =======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/1C.iml" filepath="$PROJECT_DIR$/.idea/1C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio programacion/ejercicio programacion.iml" filepath="$PROJECT_DIR$/ejercicio programacion/ejercicio programacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio programacion/test/test.iml" filepath="$PROJECT_DIR$/ejercicio programacion/test/test.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/P1.iml" filepath="$PROJECT_DIR$/P1.iml" />
 >>>>>>> ad8d4288afd09c71fae7ebf49cf49a09f42c8c4a
+>>>>>>> 6c33ec01dbb3fd2a95385e847198af0421246fc1
     </modules>
   </component>
 </project>

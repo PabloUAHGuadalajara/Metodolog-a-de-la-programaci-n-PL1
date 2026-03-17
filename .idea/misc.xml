@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-25" project-jdk-type="JavaSDK">
-=======
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="temurin-21" project-jdk-type="JavaSDK">
 >>>>>>> ad8d4288afd09c71fae7ebf49cf49a09f42c8c4a
+>>>>>>> 6c33ec01dbb3fd2a95385e847198af0421246fc1
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
