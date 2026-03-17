@@ -1,0 +1,37 @@
+@startuml
+
+abstract class Animal {
+    + {abstract} greeting(): void
+}
+
+class Cat extends Animal {
+    **+ greeting(): void**
+}
+
+note right of Cat::greeting
+    "System.out.println("Meow!");"
+end note
+
+class Dog extends Animal {
+ **+greeting():void**
+ +greeting(Dog another):void
+ }
+note right of Dog::greeting
+    "System.out.println("Woof!");"
+end note
+note left of Dog::greeting
+    "System.out.println("Woooooooooof!");"
+end note
+class BigDog extends Dog {
+ **+greeting():void**
+**+greeting(Dog another):void** {
+}
+note left of BigDog::greeting
+    "System.out.println("Woooooowwwww!");"
+end note
+note right of BigDog::greeting
+    "System.out.println("Woow!");"
+end note
+
+
+@enduml
